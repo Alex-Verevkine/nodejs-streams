@@ -1,6 +1,6 @@
 # Intro To Node Streams
 
-## description: this project include high level introduction in to a world of node js streams with soe different examples.
+## description: this project include high level introduction in to a world of node js streams with some examples.
 
 [Streams Documentation](./docs/intro-page.md)
 
